@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: John Jones
+# DATE: 10/5/25
+# BRIEF DESCRIPTION:  code was already in the lab when i entered the .py file, i cannot take credit for the below code.
 
 
 
@@ -85,7 +85,7 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
+code was already in the lab when i entered the .py file, i cannot take credit for the below code.
 
 
 
